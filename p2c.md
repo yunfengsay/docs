@@ -15,4 +15,9 @@ prd to code
 设置log颜色
 git config --global alias.loga "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
-
+1:分词
+2:word2vec
+3:seq2seq
+## NLP工具
+1. https://github.com/hankcs/HanLP/tree/doc-zh
+2. 
