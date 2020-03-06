@@ -9,3 +9,10 @@ prd to code
 
 ## 解法
 图形化，我们的感官中只有文字和图像两种高效的交流模式，
+
+## git设置
+```
+设置log颜色
+git config --global alias.loga "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
+
