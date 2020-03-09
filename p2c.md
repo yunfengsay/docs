@@ -18,6 +18,6 @@ git config --global alias.loga "log --graph --pretty=format:'%Cred%h%Creset -%C(
 1:分词
 2:word2vec
 3:seq2seq
-## NLP工具
-1. https://github.com/hankcs/HanLP/tree/doc-zh
-2. 
+
+
+
